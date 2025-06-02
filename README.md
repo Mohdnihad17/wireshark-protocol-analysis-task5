@@ -1,18 +1,18 @@
-# 🛡️ Task 5: Capture and Analyze Network Traffic Using Wireshark
+#  Task 5: Capture and Analyze Network Traffic Using Wireshark
 
-## 🔧 Tools Used
+##  Tools Used
 - **Wireshark **
 - Operating System: Windows
 - Network Interface: Wi-Fi
 
 ---
 
-## 🎯 Objective
+##  Objective
 To capture live network packets using Wireshark, identify at least 3 different protocols, and understand basic packet structures and communication over the internet.
 
 ---
 
-## 🌐 Protocols Identified
+##  Protocols Identified
 
 ### 1. **QUIC**
 - A modern transport protocol used mainly by Google services.
@@ -46,7 +46,7 @@ To capture live network packets using Wireshark, identify at least 3 different p
 
 ---
 
-## 📁 Packet Summary
+##  Packet Summary
 
 - **QUIC**: Encrypted and fast communication with services like Google.
 - **TCP**: Reliable transport layer connection for sessions.
@@ -54,11 +54,11 @@ To capture live network packets using Wireshark, identify at least 3 different p
 
 ---
 
-## 📌 Summary
+##  Summary
 Using Wireshark, I captured and analyzed live network traffic from my system. I successfully identified multiple network protocols (QUIC, TCP, TLSv1.2). This task helped me understand how protocols function across network layers and improved my skills in packet filtering and traffic inspection.
 
 ---
 
-## 👤 Submitted By
+##  Submitted By
 **Name**: Mohammed Nihad  
 **Institution**: Royal College of Engineering and Technology
